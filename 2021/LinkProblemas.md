@@ -8,7 +8,7 @@ Tercera Fecha(Prime fase Brasil):
 https://codeforces.com/gym/103388
 
 Repechaje:
-N/A
+https://omegaup.com/arena/ICPCMX2021_REP/
 
 Latin American Regional Contest:
 https://codeforces.com/gym/103640
