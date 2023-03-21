@@ -10,3 +10,6 @@ https://codeforces.com/gym/103960
 
 Repechaje:
 https://codeforces.com/gym/104120
+
+Latin American Regional:
+https://codeforces.com/gym/104252
