@@ -10,5 +10,5 @@ https://codeforces.com/gym/103388
 Repechaje:
 https://omegaup.com/arena/ICPCMX2021_REP/
 
-Latin American Regional Contest:
+Latin American Regional Contest 2021:
 https://codeforces.com/gym/103640
