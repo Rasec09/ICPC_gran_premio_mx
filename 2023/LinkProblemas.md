@@ -22,5 +22,5 @@ https://codeforces.com/gym/104990
 The 2024 ICPC Latin America Championship (17 de marzo 2024): 
 https://codeforces.com/gym/105053
 
-48th Annual ICPC World Championship (19 de septiembre 2024):
+48th Annual ICPC World Championship (Kazajistan 19 de septiembre 2024):
 https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202024
