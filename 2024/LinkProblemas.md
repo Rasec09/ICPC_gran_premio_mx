@@ -12,3 +12,6 @@ https://codeforces.com/gym/105408
 
 Latin America regional contest (9 de noviembre 2024):
 https://codeforces.com/gym/105505
+
+The 2025 ICPC Latin America Championship (16 de marzo 2025):
+https://codeforces.com/gym/105789
