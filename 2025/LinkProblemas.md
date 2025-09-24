@@ -6,3 +6,6 @@ https://codeforces.com/gym/105979
 
 Tercera fecha (23 de agosto 2025):  
 https://codeforces.com/gym/106063  
+
+Repechaje (13 de septiembre):  
+https://codeforces.com/gym/106073  
