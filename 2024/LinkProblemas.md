@@ -15,3 +15,6 @@ https://codeforces.com/gym/105505
 
 The 2025 ICPC Latin America Championship (16 de marzo 2025):
 https://codeforces.com/gym/105789
+
+49th ICPC World Finals Baku (4 de septiembre 2025):
+https://open.kattis.com/problem-sources/ICPC%20World%20Finals%202025
