@@ -14,4 +14,4 @@ ICPC Latin American Regional Contests 2025 (8 de noviembre 2025):
 https://codeforces.com/gym/106178  
 
 The 2026 ICPC Latin America Championship (7 de marzo 2026):  
-https://codeforces.com/group/8JufKtWW7p/contest/676963
+https://codeforces.com/gym/106416
